@@ -33,4 +33,67 @@ Mnetioned Hood.ie as dev stack for FEDs so they don't need to worry about a back
 
 Traditional relational databases have started pushing NoSQL document fetures into their Relational databases. So they sub parse JSON or XML when it is a blog in a ralational database. Native JSON support appearing in Postgress *JSONB*. MySQL anounce support for native JSON last month.
 
-#### 
+#### Query everything search
+
+- ElasticSearch
+- Solr
+
+Range, span, and ketword queries.
+
+You can score things to boost them up the results.
+
+*Facets* in ElasticSearch are easy. They are not so easy in Relational DB.
+Facets are excellent for logs 
+
+#### Key: Value DB's
+
+- redis
+- riak
+
+#### Columnar DB's
+
+Flip the data to be more how it is layed out on disk. *See slides for understanding*
+
+Great for stuff that is analytical.
+InfoBright is a MySQL extension to achive Columnar DB.
+
+#### Cell level security
+
+NSA made a Cell Level DB, then open sourced it. Not many other examples of this.
+
+#### Time series DB's
+
+Still emerging in the NoSQL area. Time series is not so hard to achive in Traditional DB's. SQL DB's might win this one.
+
+#### Graph DB's
+
+- Neo4j
+- *Others but did not catch as slides moved on. See slides*
+
+In speakers words **Graph DB's are awesome**.
+
+#### Big Data DB's
+
+- Hadoop
+
+SQL on top of Hadoop. SQL layers *see slides*.
+
+#### Summary
+
+ACID = Traditonal SQL  
+BASE = NoSQL
+
+**A**tomic  
+**C**onsistent  
+**I**solated  
+**D**urable  
+
+**B**asiclly **A**vailable  
+**S**oft-state  
+**E**ventually consistent  
+
+Finishes with explination that there is a case for both SQL and NoSQL solutions. Depending on what you are doing, *choose the right tool for the job*.
+
+
+
+
