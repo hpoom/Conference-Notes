@@ -29,7 +29,7 @@ Mention of the Pyhton one liner web server :D
 
 ##### Alfred
 
-Has a script that resets her dev enviroment. She has then linked that into Alfred so it is simple to run.
+Has a script that resets her dev environment. She has then linked that into Alfred so it is simple to run.
 
 ##### Dash
 
@@ -63,7 +63,7 @@ Images are the first target when looking to shrik your website in order to speed
 
 *Great to see [Can I Use](http://caniuse.com) mentioned!*
 
-*grunt-montage* for image spriting
+*grunt-montage* for image spiriting
 
 ##### ZSH (for the win)
 
@@ -75,5 +75,34 @@ If your going to bash program use link on *slide 181*
 
 ### PART 2
 
+##### CSS Pre Processors
 
+Sass, LESS, and Stylus
+
+Good bit on sass/compass variable name conventions *slide 234*
+
+mixins are good. Saves you time.
+
+[grunt-devtools](https://github.com/vladikoff/grunt-devtools) *slide 276*  
+Grunt execution from the Chrome browser
+
+Sourcemaps - Get sass files in devtools for debugging instead of the resulting css. It is only for *dev environment*, do not do in *production*!
+
+**grunt-devperf** *slide 311* 
+
+Regression testing of CSS with [Wraith](https://github.com/BBC-News/wraith) *slide 314*
+
+##### Living Style Guides
+
+**We really need to do this! Been chatting to Luke about it**
+
+[PatternLab](http://patternlab.io)
+
+[Emmet](http://emmet.io/) *slide 346*  
+Supercharged HTML creation. Like Haml but a **lot** nicer and in your editor.
+[Emmet for Brackets](https://github.com/emmetio/brackets-emmet)
+
+##### Yeoman
+
+Yeoman is highly opinionated!
 
