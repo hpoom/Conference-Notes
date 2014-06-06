@@ -21,4 +21,8 @@ Built a framework
 
 Mentioned using *Redgate* tools to manage diffs in database
 
+Cloud based logging using Logstash and Kibana  
+Don't host these tools yourself, take SaaS where possible
+
+It is always worth paying off Tech Debt
 
