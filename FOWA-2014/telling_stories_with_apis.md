@@ -29,6 +29,8 @@ Is a Ruby engineer, which has effected some of her API mistakes in the past.
 
 JSON-LD can have operations added with HYDRA
 
+In the questions praised Swagger. Third mention this conference!
 
+Twilio have great API Docs.
 
 
