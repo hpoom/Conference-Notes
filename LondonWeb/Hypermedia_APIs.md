@@ -19,7 +19,7 @@ Some overlap with FOWA talk. [See my FOWA notes here](https://github.com/hpoom/C
 - Latency
 - Size
 
-
+If you don't do Hypermedia, then at least provide a good manual!
 
 
 *Get link to video when it comes online and share it with the team*
