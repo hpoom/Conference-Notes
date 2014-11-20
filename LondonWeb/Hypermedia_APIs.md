@@ -6,6 +6,8 @@ Some overlap with FOWA talk. [See my FOWA notes here](https://github.com/hpoom/C
 
 [Siren](https://github.com/kevinswiber/siren) is the new kid on the block
 
+[Hydra](http://www.markus-lanthaler.com/hydra/)
+
 
 **Hypermedia APIs are good because:**
 
