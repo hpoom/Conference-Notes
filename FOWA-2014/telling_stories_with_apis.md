@@ -6,7 +6,7 @@ Health and Safety notice, contains JSON
 
 Books -> Chapters -> Pages
 
-What is the user need? - Moto of GDS (Government Digital Services)
+What is the user need? - Motto of GDS (Government Digital Services)
 
 Children only care about _Events_ and _Characters_ not Chapters and Pages.
 
