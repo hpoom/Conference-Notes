@@ -15,7 +15,7 @@ The average smart phone users has 65 apps installed on their device, but only re
 
 Three simple steps for twitter integration:
 
-### Cards
+#### Cards
 
 Cards add context to the tweak. Store links, photos, music etc.
 Cards look easy to implement.
@@ -26,6 +26,28 @@ This drives user growth for your app.
 Add deeplink schemes to your app!
 Deeplink schemes are used by twitter cards.
 
-### Sharing
+#### Sharing
+
+Sharing best practices. Tweets with great contact get the most engagement. Not just about tweeting links, also about the summary you put on the tweet.
+
+*code demo of using TwitterKit to do this tweeting a link with summary or card*
+
+#### Analytics
+
+Measure App Conversion. Answers.
+
+Answers give you event tracking data from twitter cards.
+
+Cross data of both tweets and app analysis. So can see which app downloads were because of a tweet. Allows you to see which were the most successful tweets/cards at achieving your goals.
+
+[analytics.twitter.com](https://analytics.twitter.com/)
+
+### Twitter Ads
+
+Covering how to target ads to get your target audience. Tailored Audiences. You can upload a list of twitter id's and you can include or exclude them from ad campaigns. So you could exclude people who already have your app from seeing an ad to download your app and only show those ads to people who don't yet have the app.
+
+Twitters talk about organic and paid for acquisition/engagement reminds me of Googles approach.
+Which is interesting because I do use twitter more than search engines to discover new content.
+
 
 
