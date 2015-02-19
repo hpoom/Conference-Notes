@@ -14,3 +14,9 @@ Twitter still things social login is excellent. They are not replacing social lo
 
 Getting the operator from a phone number is available from other providers, but it is costly. Sending an SMS and tracking that in an app can be achieved but is not easy. Twitter makes this easy with Digits.
 
+Slide showing cost per 1million sign ups with mobile numbers (taken from SMS costs). It is expensive.
+
+With Digits that don't need a password anymore. The SMS grants access. Phone number is user and password. There is no social network behind it, so no opportunity to post to somebody's social stream. It is login only. Digits is backed by twitters battle tested SMS infrastructure.
+
+
+*code demo*
