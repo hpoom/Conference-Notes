@@ -39,5 +39,16 @@ Digits is white label sign up/sign on solution for phone numbers. Twitter alread
 
 There is no login and password, just a phone number for both identity and security (username and password). There is an auth SMS at the start to confirm who you are.
 
+All available now at [Fabric.io](http://fabric.io/)
 
+Fabric demo by @romainhuet - **this is how you do developer documentation!** in reference to the fabric toolbar tool on mac.
+
+Cannonball poem app used for the demo of each of the fabric sub products.
+Cannonball [iOS](https://github.com/twitterdev/cannonball-ios) and [Android](https://github.com/twitterdev/cannonball-android) source code is available on.
+
+###Beta user testimonies
+- Citymapper
+- yPlan
+- Bla Bla car
+- GameInsight
 
