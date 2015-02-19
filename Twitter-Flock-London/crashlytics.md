@@ -1,6 +1,6 @@
 # Crashlytics: Quality First
 
-## Brian Swift - @bswift - 19 Feb 2015 - ??:00
+## Brian Swift - @bswift - 19 Feb 2015
 
 The apps foundations are defined by how stable the app is.
 Does not matter what you do with ads or login if the app is not stable.
