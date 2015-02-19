@@ -20,4 +20,9 @@ Strava moved from another crash report tool over to Crashlytics.
 Strave had a bug that 3-4% of users were experiencing, which is huge. With Crashlytics they found the issue and fixed it.
 
 
+Once they had a good crash report tool, Crashlytics then focused on extending the product to be a good beta testing tool. Crashlytics Beta.
+
+Session length is a nice metric in Answers.
+
+Because Answers is realtime, runkeeper rolled out an update only 2 hours after a new app version launch. They saw how things were not working quickly and were able to take steps to fix it!
 
