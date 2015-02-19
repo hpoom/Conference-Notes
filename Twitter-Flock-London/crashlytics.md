@@ -25,4 +25,3 @@ Once they had a good crash report tool, Crashlytics then focused on extending th
 Session length is a nice metric in Answers.
 
 Because Answers is realtime, runkeeper rolled out an update only 2 hours after a new app version launch. They saw how things were not working quickly and were able to take steps to fix it!
-
