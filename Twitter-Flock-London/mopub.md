@@ -13,3 +13,7 @@ Bidders can bid on key attributes of users. So they can target specific audience
 
 The speaker is selling the dream that an ad back app can mean you get well funded for your free app/game. It can allow you to quit your day job and take a good income. (Flow Free was the app example)
 
+The goal of mopub in fabric is to make it easier to use the mopub platform. In fact the whole goal of fabric is to wrapper the twitter mobile dev tools into an easy to digest package.
+
+Instead of showing ad on Game Over screen, show it after Reply has been clicked. This causes 3x interaction with the ad. Catch the user on a high, not a low.
+
