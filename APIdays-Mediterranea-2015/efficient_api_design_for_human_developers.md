@@ -16,6 +16,26 @@ Where is the dreamweaver for APIs?
 
 There are many tools out there, but which is the right tool?
 
+- [API Designer](https://www.mulesoft.com/platform/api/api-designer) from Mulesoft
+- APIARY - API Blueprint
+- Swagger
+- _Shamless plug_ - Mashape Docs
+- Restlet Studio
+- [Mocaroni](https://www.mocaroni.com/)
+- Readme.io
+- Gelato.io - _Today it is Alpha (very early days)_
+- APImatic
+
+Healthy API design comes from iterating.
+
+
+
+
+
+
+
+
+
 
 
 
