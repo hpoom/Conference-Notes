@@ -22,5 +22,12 @@ All written with Java JVM. [Apache Camel](http://camel.apache.org/)
 
 Sometimes a message broker is needed to guarantee the delivery of a message. RabbitMQ the example.
 
+Service Registry. Used to allow service discovery. Examples of Netflix for Service Registry/Discovery, but also for Circuit Breaker.
+
+[Netflix Hystrix](https://github.com/Netflix/Hystrix/wiki/How-it-Works)
+
+
+
+
 
 
