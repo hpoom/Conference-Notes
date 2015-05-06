@@ -37,3 +37,5 @@ API CodeGen can read an APIs.json and produce and SKD in 7 programming languages
 Now APIs.json has evolved not longer just meta data or tagging of an API, but also exposing documentation, availability data (uptime), licensing, pricing models, and other information to provide an informed decisions on the choice of API. All of which is both machine and human readable.
 
 Transcends technical API discovery and enters into the business domain.
+
+http://api-portal.apievangelist.com/
