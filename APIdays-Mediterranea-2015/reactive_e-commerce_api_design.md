@@ -16,6 +16,12 @@ Has an example showing lines on and order. Add line item, remove line item, and 
 
 Send the changes, a lot smaller, instead of sending the whole model as it looks now. Reminds me of PATCH in REST.
 
+http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf
+
 Atomic Transactions
+
+[Reactive Manifesto](http://www.reactivemanifesto.org/)
+
+
 
 
