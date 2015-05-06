@@ -18,4 +18,8 @@ _Need to insert the slide here_
 
 Demo of API Model Canvus
 
-### 
+### To close
+
+APIs are becoming mainstream. API programs are becoming more diverse.
+
+APIs are no longer a tech thing, they effect all areas of business.
