@@ -14,3 +14,5 @@ How do you talk about an API? Talk about what you can do with it and why. Don't 
 
 Examples in slides of how to, and how not to do, API sales pitches.
 
+Make sure everybody understands what your Product is.
+
