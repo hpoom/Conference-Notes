@@ -17,3 +17,9 @@ Does not have the usual overheads of provisioning a virtual machine.
 - DevOps Enabler
 - Microservices enabler
 
+Life before Docker was Vagrant, Jenkins, Chef. Now Docker ticks all those boxes.
+
+Another good application is legacy applications. They can put them into a container and get it work.
+
+There is other containerisation solutions out there, for example CoreOS.
+
