@@ -1,6 +1,6 @@
 # Twitter Everywhere 
 
-## Ali Parr, - @aliparr - 5 April 2016 - 18:30
+## Ali Parr, @aliparr - 5 April 2016 - 18:30
 
 [Event Details](https://helloworldlondon.splashthat.com/)
 
@@ -37,6 +37,14 @@ There are three APIs
 - Realtime - Live fee doc info
 - Historical - Historical search on terms
 - Insights - Aggregated holistic view
+
+*DEMO*
+
+See the City mobile app example. A travel guide driven by tweets. Where to visit shows the top 10 attractions in last 7 days based on tweets. So adapts to change and the changes in popularity over time.
+
+[Server Code](http://t.co/seethecity-server)
+
+[App Code](http://t.co/seethecity/seethecity-ios)
 
 
 
